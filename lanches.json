@@ -1,6 +1,74 @@
 {
   "categories": [
-    { "burguers": ["x-tudo"] },
+    {
+      "burguers": [
+        {
+          "name": "x-baccon",
+          "price": 25.29,
+          "description": "o melhor de todos",
+          "ingredients": [
+            "baccon",
+            "Carne",
+            "pão integral",
+            "cebola",
+            "queijo cheddar",
+            "picles"
+          ]
+        },
+        {
+          "name": "x-cheddar",
+          "price": 32.90,
+          "description": "O mais completo de todos",
+          "ingredients": [
+            "dupla carne",
+            "pão de especial",
+            "queijo cheddar"
+          ]
+        },
+        {
+          "name": "x-chikken",
+          "price": 25.29,
+          "description": "o melhor de todos",
+          "ingredients": [
+            "baccon",
+            "peito de frango crocante",
+            "pão integral",
+            "cebola",
+            "alface",
+            "tomate",
+            "queijo mussarela"
+          ]
+        },
+        {
+          "name": "x-vegan",
+          "price": 25.29,
+          "description": "o melhor de todos",
+          "ingredients": [
+            "pão integral",
+            "cebola",
+            "queijo cheddar",
+            "picles",
+            "alface",
+            "tomate",
+            "molho especial"
+          ]
+        },
+        {
+          "name": "x-baccon-TUDO",
+          "price": 25.29,
+          "description": "o melhor de todos",
+          "ingredients": [
+            "baccon",
+            "triplo carne",
+            "pão integral",
+            "cebola cremosa",
+            "queijo cheddar extra",
+            "picles",
+            "molho especial"
+          ]
+        }
+      ]
+    },
     { "drinks": [] },
     { "snacks": [] },
     { "others": [] }
