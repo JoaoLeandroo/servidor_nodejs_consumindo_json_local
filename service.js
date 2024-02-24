@@ -1,9 +1,3 @@
-// categories -> burguers / drinks / lanches / combos
-
-// burguers -> description / value / name / ingredients / urlImg
-
-// drinks -> name / description / value / ingredients / urlImg
-
 const express = require("express");
 const fs = require("fs");
 const server = express();
